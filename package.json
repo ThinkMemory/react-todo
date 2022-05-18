@@ -2,7 +2,7 @@
   "name": "reactdemo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://thinkmemory.github.io/react-todo/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@testing-library/jest-dom": "^5.16.4",
